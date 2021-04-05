@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to chat with people.
 - 📫 How to reach me: alamani.vanessa@gmail.com
 - 📍 Utrecht, Netherlands
-- ⚡ Fun fact: I love playing videogames 🎮 and I hope one day I will build my own 👽
+- ⚡ Fun fact: I love playing videogames 🎮 and I hope one day I will create my own one 👽
 
 
 ### Languages and Tools:
