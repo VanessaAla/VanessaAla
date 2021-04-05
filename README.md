@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-### I am a Junior Full Stack Developer 🚀 and I love creating Applications and Websites. 
+### I am an aspiring Junior Full Stack Developer 🚀 and I love creating Applications and Websites. 
 
 
 - 🔭 I’m currently working on a full stack application, about business search by category and/or area.
