@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-### I'm a Junior Full Stack Developer 🚀 and I love creating Applications and Websites. 
+### **About me :**
 
 
-- 🔭 I’m currently taking Udemy's JavaScript Course to sharpen my skills in VanillaJS.
+- :dart: I am a Junior API Engineer
 - 🌱 I’m currently learning everything 😆
 - 💬 Ask me about anything, I am happy to chat with people.
 - 📫 How to reach me: alamani.vanessa@gmail.com
